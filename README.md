@@ -7,7 +7,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-This will begin training the model on the MNIST digit classification task, using the new local loss function used in the paper.
+This will begin training the model on the MNIST digit classification task, using the local loss function used in the paper.
 
-I appreciate all criticisms and feedback. If you have any, please open an issue to let me know
+I appreciate all criticism and feedback. If you have any, please open an issue to let me know :)
 
